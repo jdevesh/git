@@ -1,2 +1,2 @@
 # git
-this will contain git related stuff
+this will contain git related stuffs
